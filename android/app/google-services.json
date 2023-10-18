@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "136732092443",
+    "project_id": "propertiesbylanga",
+    "storage_bucket": "propertiesbylanga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136732092443:android:56b362aa3eca7a326f30be",
+        "android_client_info": {
+          "package_name": "com.langap.properties_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136732092443-oe2udk8ta8eu2ptepcb2uf8f6b6trdtc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.langap.properties_app",
+            "certificate_hash": "681c698baa4d7bca18f27e12834c301ab17556db"
+          }
+        },
+        {
+          "client_id": "136732092443-fentjkormikjoolmt841i9irjjv2tn72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyuR7QXcwwHMZGLUAzJ9MhGNbEDgYBQ5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136732092443-fentjkormikjoolmt841i9irjjv2tn72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
