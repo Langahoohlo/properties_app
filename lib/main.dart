@@ -13,9 +13,9 @@ void main() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
       options: const FirebaseOptions(
-        apiKey: 'AIzaSyAyuR7QXcwwHMZGLUAzJ9MhGNbEDgYBQ5M',
-        appId: "1:136732092443:web:3ebec2c1e8ac690f6f30be",
-        messagingSenderId: "136732092443",
+        apiKey: "", //Enter firebase credentials
+        appId: "", //
+        messagingSenderId: "", //
         projectId: 'propertiesbylanga',
         storageBucket: 'propertiesbylanga.appspot.com', // <-- add this
       ),
